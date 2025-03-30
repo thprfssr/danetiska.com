@@ -1,10 +1,8 @@
----
-title: Danetian New Year
-date: 01 Aries 3351
-author: Sjaverios Faustosio Delcastel
-tags: [calendar, festivals]
----
 # Danetian New Year
+
+> *Sjaverios Faustosio Delcastel ---
+> 01 Aries 3351 ---
+> 29 March 2025*
 
 Today we celebrate the Danetian New Year 3351. This festival marks the start of
 the year according to the [Danetian Calendar](calendar.html), and is tied to
