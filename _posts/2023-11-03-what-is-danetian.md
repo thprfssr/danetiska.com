@@ -1,17 +1,9 @@
 ---
-title: Danetian Republic
-layout: default
+layout: post
+title: What is the Danetian language?
+author: Javier Castro
+tags: [conlang, worldbuilding]
 ---
-# {{ page.title }}
-
-A modern
-[republic of letters](https://en.wikipedia.org/wiki/Republic_of_Letters),
-exploring ideas in mathematics, physics, and the fictional
-world of Danetia.
-
-
-
-## The Danetian Language
 
 Danetian is an artificially constructed
 [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages)
@@ -44,31 +36,3 @@ with neighboring Turkic tribes for several centuries, the language has
 borrowed many words from the Turkic languages; these are mainly military
 words, and words relating to the nomadic way of life. Danetian has also
 borrowed extensively from Latin, Greek, Arabic, and Persian.
-
-Since the inception of this project in 2016, the language
-has undergone a myriad of revisions and rewritings. This site is
-intended to be a living and ever-changing reference document that
-describes the current state of the language and cultural project.
-
-<!--Feel free to browse the [dictionary](/assets/docs/dictionary.pdf)
-and check out the
-[lunisolar calendar](/calendar.html)
-used by the Danetians.-->
-
-
-## Other Interesting Websites
-
-1. [Library Genesis](http://libgen.rs)
-2. [Sci-Hub](https://www.sci-hub.st)
-3. [Edit the Text](https://tikolu.net/edit/.info)
-4. [Novegradian language](https://veche.net/novegradian)
-5. [Kala language](https://footballbatsandmore.wordpress.com/about/document-library)
-6. [Star Chart](https://www.planetarium.sfasu.edu/SFAStarCharts/SFAStarChartsPro.pdf)
-7. [File Encrypter](https://webbrowsertools.com/file-encryptor/)
-8. [Marc Ten Bosch](https://marctenbosch.com/)
-9. [Correct Horse Battery Staple](https://correcthorse.pw/)
-10. [Temp Mail](https://temp-mail.org/en/)
-11. [Base 64 Encode](https://www.base64encode.org/)
-12. [Measuring Worth](https://www.measuringworth.com/index.php)
-13. [Autotracer](https://www.autotracer.org/)
-14. [USPaperMoney.Info](https://www.uspapermoney.info/)
